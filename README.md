@@ -1,5 +1,3 @@
-
- https://github.com/HxDDD
 <div align=center>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F/HxDDD)](https://hits.seeyoufarm.com)                    
@@ -7,6 +5,7 @@
 </div>
 
 ## Hi i'm HxDDD  👋
+
 ### Security Engineer and developer
 
 <div align=center>
