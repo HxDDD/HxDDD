@@ -8,6 +8,8 @@
 
 ### Security Engineer and developer
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HxDDD)](https://github.com/anuraghazra/github-readme-stats)
+
 <div align=center>
   
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://hxddd.github.io/)](https://hxddd.github.io/) 
